@@ -1,16 +1,14 @@
-### 
+# Matheus Pedrosa - Frontend Developer
 
-<!--
-**Otheus26/Otheus26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Olá! Meu nome é Matheus Pedrosa, tenho 20 anos e sou um entusiasta de desenvolvimento web, atualmente focado em aprender HTML, CSS e Javascript. Estou participando de um curso de frontend no Senai, em parceria com a Ford, onde estou aprimorando minhas habilidades e conhecimentos nessa área emocionante.
 
-Here are some ideas to get you started:
+## Habilidades
+- HTML
+- CSS
+- Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+Neste momento, estou trabalhando em projetos pessoais para aplicar os conceitos que tenho aprendido no curso. Fique atento ao meu perfil para atualizações sobre esses projetos.
+
+Sinta-se à vontade para entrar em contato comigo para colaborações, oportunidades ou apenas para trocar experiências sobre desenvolvimento web!
