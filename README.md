@@ -8,7 +8,7 @@ Olá! Meu nome é Matheus Pedrosa, tenho 20 anos e sou um entusiasta de desenvol
 - CSS
 - Javascript
 
-## Projetos
+## Projetos 
 Neste momento, estou trabalhando em projetos pessoais para aplicar os conceitos que tenho aprendido no curso. Fique atento ao meu perfil para atualizações sobre esses projetos.
 
 Sinta-se à vontade para entrar em contato comigo para colaborações, oportunidades ou apenas para trocar experiências sobre desenvolvimento web!
