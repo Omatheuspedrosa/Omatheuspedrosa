@@ -1,9 +1,9 @@
-# Matheus Pedrosa - Frontend Developer
+# Matheus Pedrosa - Frontend Developer 👨‍💻
 
 ## Sobre mim
 Olá! Meu nome é Matheus Pedrosa, tenho 20 anos e sou um entusiasta de desenvolvimento web, atualmente focado em aprender HTML, CSS e Javascript. Estou participando de um curso de frontend no Senai, em parceria com a Ford, onde estou aprimorando minhas habilidades e conhecimentos nessa área emocionante.
 
-## Habilidades 👨‍💻
+## Habilidades 
 - HTML
 - CSS
 - Javascript
