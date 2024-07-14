@@ -20,6 +20,10 @@
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omatheuspedrosa&layout=donut)](https://github.com/Omatheuspedrosa/github-readme-stats)
+
+<br>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omatheuspedrosa/Omatheuspedrosa/output/github-contribution-grid-snake-dark.svg">
