@@ -36,4 +36,6 @@
 
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Omatheuspedrosa)](https://git.io/streak-stats)
+
 Sinta-se à vontade para entrar em contato comigo para colaborações, oportunidades ou apenas para trocar experiências sobre desenvolvimento!
