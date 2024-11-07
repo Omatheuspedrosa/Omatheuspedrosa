@@ -7,6 +7,8 @@
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Omatheuspedrosa&show_icons=true&theme=dracula)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Omatheuspedrosa&theme=dracula&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 ## Tecnologias
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )]()
@@ -35,7 +37,5 @@
 </div>
 
 <br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Omatheuspedrosa)](https://git.io/streak-stats)
 
 Sinta-se à vontade para entrar em contato comigo para colaborações, oportunidades ou apenas para trocar experiências sobre desenvolvimento!
