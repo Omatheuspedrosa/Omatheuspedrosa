@@ -1,4 +1,4 @@
-# Matheus Pedrosa - Frontend Developer 👨‍💻
+# Matheus Pedrosa 👨‍💻
 
 [![Matheus Pedrosa profile views](https://u8views.com/api/v1/github/profiles/106934941/views/day-week-month-total-count.svg)](https://u8views.com/github/Omatheuspedrosa)
 
